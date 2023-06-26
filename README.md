@@ -1,6 +1,7 @@
 Accredify technical test
 
 Testing using POST man 
+
 URL: .../api/verify
 
 This API accept only file input and will return a response as shown below
